@@ -1,3 +1,4 @@
+
 Download python latest version from python.org and install it.
 
 Extract the zip into a folder in your desktop or any dir of choice.
