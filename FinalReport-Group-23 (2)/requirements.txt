@@ -1,0 +1,15 @@
+asgiref==3.8.1
+Django==5.1.1
+django-bootstrap5==24.2
+django-chartjs==2.3.0
+django-fontawesome==1.0
+django-tables2==2.7.0
+joblib==1.4.2
+numpy==2.1.1
+pillow==10.4.0
+PyYAML==6.0.2
+scikit-learn==1.5.2
+scipy==1.14.1
+sqlparse==0.5.1
+threadpoolctl==3.5.0
+typing_extensions==4.12.2
